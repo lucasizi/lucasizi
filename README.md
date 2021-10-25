@@ -24,7 +24,7 @@
  
 </div>
 
-## Currently Full Stack Developer at Orbis - Research Institute
+## Currently Working at Orbis - Research Institute
 <a href="https://www.orbispesquisa.com.br"><img src="https://i.ibb.co/mRF052k/imagem-2021-10-25-174951.png" alt="imagem-2021-10-25-174951" border="0"></a>
 
 ## Languages and Tools.
