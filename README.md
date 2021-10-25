@@ -25,7 +25,7 @@ https://ibb.co/3FpxVqF
 ## Cloud
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
 <code><img height="20" scr="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></code>
-<code><img height="20" scr="https://badgen.net/badge/:subject/:status/:color?icon=github"></code>
+<code><img height="20" scr="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></code> 11 95352-0476
 
 ## OS:
 <code><img height="20" scr="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></code>
