@@ -9,10 +9,19 @@
 :books: I’m currently learning PL/SQL, HTML5, CSS, PYTHON.
 
 :outbox_tray: 2021 Goals: create a new solo project!.
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasizi)](https://github.com/lucasizi)    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
-
 ## About me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasizi)](https://github.com/lucasizi)    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:lucasizi10@hotmail.com)
+</div>
+
+<div> 
+  <a href="https://www.instagram.com/luc_izidoro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/GzF9cSBsW7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-izidoro-649851161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 ## Currently Full Stack Developer at Orbis - Research Institute
 <a href="https://www.orbispesquisa.com.br"><img src="https://i.ibb.co/FY5QcMY/imagem-2021-10-25-165841.png" alt="imagem-2021-10-25-165841" border="0"></a>
