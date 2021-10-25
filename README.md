@@ -10,16 +10,12 @@
 
 :outbox_tray: 2021 Goals: create a new solo project!.
 
- 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasizi)](https://github.com/lucasizi)    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
 
 ## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasizi)](https://github.com/lucasizi)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
-
 
 ## Currently Full Stack Developer at Orbis - Research Institute
-https://ibb.co/3FpxVqF
+<code><img height="100" src="https://ibb.co/3FpxVqF"></code>
 
 ## Languages and Tools.
 
