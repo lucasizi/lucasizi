@@ -4,27 +4,28 @@
 
 :computer: I'm Back-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: São Bernardo do Campo - São Paulo, Brasil.
 
 :books: I’m currently learning PL/SQL, HTML5, CSS, PYTHON.
 
-:outbox_tray: 2021 Goals: create a new solo project!.
-## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasizi)](https://github.com/lucasizi)    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
-[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:lucasizi10@hotmail.com)
-</div>
+:outbox_tray: 2021 Goals: Create a solo project!.
 
-<div> 
+## Find Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:lucasizi10@hotmail.com)
+
+## Talk to Me
+<div>
+  <a href="https://wa.me/5511953520476/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luc_izidoro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/GzF9cSBsW7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-izidoro-649851161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
 ## Currently Full Stack Developer at Orbis - Research Institute
-<a href="https://www.orbispesquisa.com.br"><img src="https://i.ibb.co/FY5QcMY/imagem-2021-10-25-165841.png" alt="imagem-2021-10-25-165841" border="0"></a>
+<a href="https://www.orbispesquisa.com.br"><img src="https://i.ibb.co/mRF052k/imagem-2021-10-25-174951.png" alt="imagem-2021-10-25-174951" border="0"></a>
 
 ## Languages and Tools.
 
@@ -43,6 +44,10 @@
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasizi&show_icons=true" alt="lucasizi" />
+</p>
 
 
 - Thanks for visiting.
