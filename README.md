@@ -17,7 +17,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
 
-<code><img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></code> 11 95352-0476
 
 ## Currently Full Stack Developer at Orbis - Research Institute
 https://ibb.co/3FpxVqF
