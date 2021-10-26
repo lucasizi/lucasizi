@@ -53,7 +53,7 @@
       <img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </div>
     <div align="center">
-      <img align="left" height="185em" src="https://github-readme-stats.vercel.app/api?username=lucasizi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img align="left" height="176em" src="https://github-readme-stats.vercel.app/api?username=lucasizi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasizi&layout=compact&langs_count=7&theme=dracula"/>
       <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://i.ibb.co/bvfFjZR/imagem-2021-10-25-185551.png"/>
     </div>
