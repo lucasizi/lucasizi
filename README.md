@@ -57,3 +57,7 @@
       <img align="left" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasizi&layout=compact&langs_count=7&theme=dracula"/>
       <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://i.ibb.co/bvfFjZR/imagem-2021-10-25-185551.png"/>
     </div>
+    
+    
+    
+![](https://komarev.com/ghpvc/?username=lucasizi&color=blueviolet)
