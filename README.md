@@ -52,7 +52,7 @@
       <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
       <img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </div>
-    <div align="center">
+    <div>
       <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasizi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img align="left" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasizi&layout=compact&langs_count=7&theme=dracula"/>
     </div>
