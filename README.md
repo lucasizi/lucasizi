@@ -24,7 +24,7 @@
 </div>
 
 ## Currently Working at Orbis - Research Institute
-<a href="https://www.orbispesquisa.com.br"><img src="https://i.ibb.co/mRF052k/imagem-2021-10-25-174951.png" alt="imagem-2021-10-25-174951" border="0"></a>
+<a href="https://www.orbispesquisa.com.br"><img src="https://static.wixstatic.com/media/f11e11_a1edb6aebce94fdc8bd58e176fdefd01~mv2.png/v1/fill/w_209,h_209,al_c/f11e11_a1edb6aebce94fdc8bd58e176fdefd01~mv2.png" alt="imagem-2021-10-25-174951" border="0"></a>
 
 ## Languages and Tools.
 
