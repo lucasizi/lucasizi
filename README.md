@@ -10,7 +10,7 @@
 
 :books: I’m currently learning PL/SQL, HTML5, CSS, PYTHON.
 
-:outbox_tray: 2021 Goals: Create a solo project!
+:outbox_tray: 2022 Goals: Create a solo project!
 
 ## Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
