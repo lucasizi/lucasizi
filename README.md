@@ -2,7 +2,6 @@
 
 # Welcome!
 ## I'm Lucas Izidoro!
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/XZnBVtQ/imagem-2021-10-25-185031.png?width=676&height=676">
 
 :computer: Back-End Developer,
 
