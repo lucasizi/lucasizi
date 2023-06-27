@@ -3,13 +3,13 @@
 # Welcome!
 ## I'm Lucas Izidoro!
 
-:computer: Back-End Developer,
+:computer: Data Analyst / Back-End Developer,
 
 :house_with_garden: São Bernardo do Campo - São Paulo, Brasil.
 
-:books: I’m currently learning PL/SQL, HTML5, CSS, PYTHON.
+:books: I’m currently learning (And working with) PL/SQL, Tableau, Excel BI, PowerBI, PYTHON.
 
-:outbox_tray: 2022 Goals: Create a solo project!
+:outbox_tray: 2023 Goals: Become a full-time Data Analyst!
 
 ## Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
