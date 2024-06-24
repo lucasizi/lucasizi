@@ -9,8 +9,6 @@
 
 :books: I’m currently learning (And working with) PL/SQL, Tableau, Excel BI, PowerBI, PYTHON.
 
-:outbox_tray: 2023 Goals: Become a full-time Data Analyst!
-
 ## Find Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-izidoro-649851161/)](https://www.linkedin.com/in/lucas-izidoro-649851161/)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:walafif81@gmail.com)](mailto:lucasizi10@hotmail.com)
